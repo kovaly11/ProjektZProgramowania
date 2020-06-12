@@ -1,0 +1,17 @@
+[0610/212841.957:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0610/212841.985:ERROR:exception_snapshot_win.cc(98)] thread ID 6912 not found in process
+[0610/212842.911:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0610/212842.912:ERROR:exception_snapshot_win.cc(98)] thread ID 12604 not found in process
+[0612/073319.203:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0612/073319.320:ERROR:exception_snapshot_win.cc(98)] thread ID 14516 not found in process
+[0612/073319.701:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0612/073319.703:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0612/073319.703:ERROR:exception_snapshot_win.cc(98)] thread ID 18576 not found in process
+[0612/073320.139:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0612/073320.139:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0612/073320.140:ERROR:exception_snapshot_win.cc(98)] thread ID 9924 not found in process
+[0612/080007.823:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0612/080007.889:ERROR:exception_snapshot_win.cc(98)] thread ID 14164 not found in process
+[0612/080008.012:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0612/080008.132:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0612/080008.132:ERROR:exception_snapshot_win.cc(98)] thread ID 17764 not found in process
